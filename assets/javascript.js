@@ -72,4 +72,6 @@ $(document.body).on('click', '.gifImage', function() {
 
 });
 
+//this closes the (document).ready function.  Do not delete!
+
 });
